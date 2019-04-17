@@ -1,4 +1,4 @@
-![Clocker](https://raw.githubusercontent.com/Abhishaker17/Clocker/v1.2.1/GitHub.png "Clocker")
+![Clocker](https://raw.githubusercontent.com/an0jan/Clocker/v1.4.1/GitHub.png "Clocker")
 
 **Clocker** is an OSX menubar utility designed to help you keep track of your friends in different time zones. If you'd like to donate, you can do so [here](https://www.paypal.me/AbhishekBanthia). Need any help? Open an issue!
 
